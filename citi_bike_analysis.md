@@ -1,8 +1,8 @@
-Exploring Citi Bike Trends
+## Exploring Citi Bike Trends
 
 Welcome to our analysis of Citi Bike trends, where we delve into the usage patterns and insights derived from Citi Bike trip data. In this analysis, we focus on exploring trends and patterns in Citi Bike usage throughout April and December 2023.
 
-Title:
+### Title:
 "Biking Through the Months: Uncovering Insights from Citi Bike Data"
 
 Introduction:
@@ -24,3 +24,5 @@ Conclusion:
 Our analysis provides valuable insights into Citi Bike usage patterns and trends, offering actionable information for city officials, marketers, and stakeholders. By leveraging these insights, decision-makers can optimize resource allocation, enhance user experiences, and maximize the effectiveness of Citi Bike operations.
 
 Note: We encourage users to interact with the dashboards to explore the data further and uncover additional insights. Your feedback and insights are invaluable in refining our analysis and understanding of Citi Bike usage trends. Enjoy exploring!
+
+Explore the dashboards [here](https://public.tableau.com/app/profile/bukola.fatile/viz/shared/YHCQPYZS3).
